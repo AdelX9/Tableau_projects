@@ -1,0 +1,33 @@
+Region,Type,Year,Units
+Japan,Hardware,3/2017,60
+The Americas,Hardware,3/2017,120
+Europe,Hardware,3/2017,76
+Other,Hardware,3/2017,18
+Japan,Software,3/2017,89
+The Americas,Software,3/2017,286
+Europe,Software,3/2017,142
+Other,Software,3/2017,29
+Japan,Hardware,3/2018,378
+The Americas,Hardware,3/2018,594
+Europe,Hardware,3/2018,379
+Other,Hardware,3/2018,154
+Japan,Software,3/2018,1226
+The Americas,Software,3/2018,2752
+Europe,Software,3/2018,1917
+Other,Software,3/2018,456
+Japan,Hardware,3/2019,385
+The Americas,Hardware,3/2019,688
+Europe,Hardware,3/2019,455
+Other,Hardware,3/2019,169
+Japan,Software,3/2019,2148
+The Americas,Software,3/2019,5394
+Europe,Software,3/2019,3516
+Other,Software,3/2019,797
+Japan,Hardware,3/2020,521
+The Americas,Hardware,3/2020,811
+Europe,Hardware,3/2020,534
+Other,Hardware,3/2020,237
+Japan,Software,3/2020,3256
+The Americas,Software,3/2020,7428
+Europe,Software,3/2020,5017
+Other,Software,3/2020,1171
